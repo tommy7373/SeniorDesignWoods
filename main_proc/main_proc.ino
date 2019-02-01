@@ -18,7 +18,7 @@
 #endif
 
 MPU9250_DMP imu;
-Adafruit_7segment green_seg = Adafruit_7segment();
+//Adafruit_7segment green_seg = Adafruit_7segment();
 Servo myservo;
 
 unsigned long currMs = 0;
